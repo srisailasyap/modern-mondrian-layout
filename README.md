@@ -1,7 +1,7 @@
 # modern-mondrian-layout
 Project Description:
 
-The provided HTML and CSS code constitutes a web project titled "Mondrian Project." This project creates a visual representation inspired by the abstract works of Piet Mondrian, a Dutch artist known for his use of geometric shapes and primary colors. The project utilizes a combination of HTML and CSS to construct a responsive layout resembling Mondrian's iconic compositions.
+The provided HTML and CSS code constitutes a web project titled "Mondrian Project." This project creates a visual representation inspired by the abstract works of Piet Mondrian, a Dutch artist known for his use of geometric shapes and primary colors. The project utilizes a combination of HTML and CSS to construction a responsive layout resembling Mondrian's iconic compositions.
 
 Key Features:
 
